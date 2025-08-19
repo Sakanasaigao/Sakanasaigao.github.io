@@ -1,4 +1,4 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Sakanasaigao](https://img.shields.io/badge/Sakansasaigao-github-blue?logo=github)](https://github.com/Sakansasaigao)
 
 I'm currently pursuing a Bachelor's degree in Minzu University of China.
 
